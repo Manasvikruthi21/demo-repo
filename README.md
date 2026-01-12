@@ -1,2 +1,3 @@
-# demo-repo
-new file 
+# demo-repo 
+demo repository
+author - manasvi 
